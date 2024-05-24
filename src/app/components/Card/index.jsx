@@ -4,7 +4,7 @@ const index = () => {
   return (
     <div className="w-[85%] h-[85%] md:h-[550px] md:w-[790px] overflow-hidden rounded-lg md:shadow-2xl">
       {/* first card */}
-      <div className="h-[40%]j md:h-1/2 bg-LightGray p-6 md:p-12 flex flex-col gap-6">
+      <div className="h-[40%]j md:h-1/2 bg-[#FFFFFF] p-6 md:p-12 flex flex-col gap-6">
         <h1 className="text-2xl text-Cyan font-bold md:font-black">
           {" "}
           Join our community
