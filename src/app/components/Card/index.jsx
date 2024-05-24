@@ -44,7 +44,7 @@ const index = () => {
         </div>
 
         {/* sec component */}
-        <div className="md:h-full md:w-1/2 bg-[#4ABEBD] p-6 flex flex-col gap-5 md:gap-3 md:pl-10">
+        <div className="md:h-full md:w-1/2 bg-[#4ABEBD] p-6 flex flex-col gap-5 md:p-9 md:gap-3 md:pl-10">
           <h1 className="text-white text-2xl ">Why Us</h1>
           <p className="text-LightGray/70 font-thin md:font-bold w-[60%] md:w-[80%] text-balance leading-6">
             Tutorials by industry experts Peer & expert code review Coding
